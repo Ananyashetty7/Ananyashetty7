@@ -1,4 +1,4 @@
-🚀 **Full-Stack Developer | Open Source Contributor | Internship Seeker**  
+
 
 I am a passionate **full-stack developer** with experience in **Python, Django, DBMS, and various full-stack technologies**. I have worked on multiple **backend-focused projects**, building robust APIs, designing efficient database systems, and deploying scalable web applications. My interest in **Python** stems from its versatility and efficiency, and I particularly enjoy using it for **problem-solving and algorithmic challenges**.  
 
