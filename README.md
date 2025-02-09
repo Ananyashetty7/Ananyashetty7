@@ -8,7 +8,6 @@ I am currently seeking **internship opportunities**. My goal is to apply my know
 
 📂 **GitHub:** [github.com/Ananyashetty7](https://github.com/Ananyashetty7)  
 
-<details>  
  <summary>🎖️ <b>GSSOC(24) Badges 🪶</b></summary><br>  
 <div align="center">  
 <a href="https://gssoc.girlscript.tech/leaderboard">  
@@ -26,4 +25,4 @@ I am currently seeking **internship opportunities**. My goal is to apply my know
 <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" />  
 </a>  
 </div>  
-</details>
+
